@@ -1,4 +1,4 @@
-FROM kaixhin/caffe  #no gpu
+FROM kaixhin/caffe 
 MAINTAINER Tingting Lu <tingtinglu@buaa.edu.cn>
 
 
