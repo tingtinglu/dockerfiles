@@ -1,4 +1,4 @@
-# CUDA-enabled Deep Learning Image
+# NO CUDA Deep Learning Image
 
 Jupyter notebook server (port 8888) for deep learning.  
 
