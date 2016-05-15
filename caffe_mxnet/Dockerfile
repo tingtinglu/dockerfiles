@@ -1,6 +1,5 @@
-FROM kaixhin/caffe  
+FROM kaixhin/caffe    #
 MAINTAINER Tingting Lu <tingtinglu@buaa.edu.cn>
-
 
 # Install git, python-dev, pip and other dependencies
 RUN apt-get update && apt-get install -y \
