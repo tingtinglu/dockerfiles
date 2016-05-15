@@ -10,7 +10,6 @@ Jupyter notebook server (port 8888) for deep learning.  Contains:
 - Scikit-learn
 - Jupyter
 
-The github repo and docker image are both `henryzlo/deepdock`
 
 Requirements
 ------------
