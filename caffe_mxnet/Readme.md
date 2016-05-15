@@ -2,7 +2,7 @@
 
 Jupyter notebook server (port 8888) for deep learning.  
 
-- Caffe 
+- Caffe  (no CUDNN)
 - Theano (no CUDNN)
 - MXnet
 - Keras
