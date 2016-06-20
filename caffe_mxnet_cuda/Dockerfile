@@ -2,7 +2,6 @@
 FROM kaixhin/cuda-caffe
 MAINTAINER TingtingLu <tingtingspring@163.com>
 
-
 # Install git, python-dev, pip and other dependencies
 RUN apt-get update && apt-get install -y \
   libopenblas-dev \
