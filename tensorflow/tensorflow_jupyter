@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER tingtinglu "tingtingspring@163.com"
+MAINTAINER tingting lu "tingtingspring@163.com"
 
 # Run all ubuntu updates and apt-get installs
 RUN export DEBIAN_FRONTEND=noninteractive && \
